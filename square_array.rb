@@ -4,3 +4,5 @@ def square_array(array)
   a.each {|x| squareArray.push(x*x) }
   squareArray
 end
+
+puts "#{squareArray([1,2,3,4])}"
