@@ -5,4 +5,4 @@ def square_array(array)
   squareArray
 end
 
-puts "#{squareArray([1,2,3,4])}"
+puts "#{square_array([1,2,3,4])}"
